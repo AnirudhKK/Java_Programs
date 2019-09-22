@@ -1,19 +1,19 @@
 import java.util.Scanner;
 public class Calc
 {
-	int add(int a, int b)
+	double add(double a, double b)
 	{
 		return a+b;
 	}
-	int sub(int a, int b)
+	double sub(double a, double b)
 	{
 		return a-b;
 	}
-	int multi(int a, int b)
+	double multi(double a, double b)
 	{
 		return a*b;
 	}
-	double div(int a, int b)
+	double div(double a, double b)
 	{
 		double res=a/b;
 		return res;
