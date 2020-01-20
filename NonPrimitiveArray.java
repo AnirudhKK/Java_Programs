@@ -46,9 +46,9 @@ public class NonPrimitiveArray {
 				System.out.println("Roll No = "+arr[i].getRoll()+"\n");
 			
 			/* 	##USING TOSTRING METHOD
-				for(int i=0;i<arr.length;i++) {
-				System.out.println(arr[i]);
-			}
+				for(int i=0;i<arr.length;i++) 
+					System.out.println(arr[i]);
+			
 			*/
 		}
 	}
